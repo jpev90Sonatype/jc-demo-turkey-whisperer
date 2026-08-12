@@ -57,7 +57,7 @@
     "ng2-file-upload": "^10.0.0",
     "ngx-window-token": "^7.0.0",
     "ngy-cookie": "^6.0.1000",
-    "postcss": "^8.4.21",
+    "postcss": "^8.5.22",
     "rxjs": "7.8.2",
     "sass": "^1.101.6",
     "snarkdown": "^1.2.2",
