@@ -119,7 +119,7 @@
     "finale-rest": "^1.2.2",
     "fs-extra": "^11.4.0",
     "glob": "^13.0.6",
-    "graceful-fs": "^4.2.11",
+    "graceful-fs": "^4.2.12",
     "grunt": "^1.6.3",
     "grunt-contrib-compress": "^2.0.0",
     "grunt-replace-json": "^0.1.0",
